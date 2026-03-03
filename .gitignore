@@ -1,6 +1,7 @@
 ## Visual Studio / .NET
 bin/
 obj/
+.vs/
 *.user
 *.suo
 *.userosscache
@@ -9,5 +10,3 @@ obj/
 ## Build artifacts
 /CalculatorApp/CalculatorApp/bin/
 /CalculatorApp/CalculatorApp/obj/
-/.vs/GitFinalQuest.slnx/FileContentIndex/7113dc90-6033-48e4-9671-a95710217967.vsidx
-/.vs/GitFinalQuest.slnx/FileContentIndex
